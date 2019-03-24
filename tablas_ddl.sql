@@ -1,4 +1,5 @@
---creacion de tablas del data warehouse
+--tablas pruebas
+--cambios alterno
 create table clientes (
 nombre varchar2(50),
 dni char(8)
